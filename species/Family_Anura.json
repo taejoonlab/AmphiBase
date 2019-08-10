@@ -1,0 +1,15 @@
+{
+    "Bombinatoridae": {
+        "Bombina_orientalis": "BOMOR",
+        "Bombina_bombina": "BOMBO"
+    },
+
+    "Pipidae": {
+        "Hymenochirus_boettgeri": "HYMBO",
+        "Xenopus_andrei": "XENAN",
+        "Xenopus_borealis": "XENBO",
+        "Xenopus_laevis": "XENLA",
+        "Xenopus_mellotropicalis": "XENME",
+        "Xenopus_tropicalis": "XENTR"
+    }
+}

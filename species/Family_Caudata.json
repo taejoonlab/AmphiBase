@@ -1,0 +1,23 @@
+{
+    "Ambystomatidae": {
+        "Ambystoma_mexicanum": "AMBME"
+    },
+
+    "Cryptobranchidae": {
+        "Andrias_davidianus": "ANDDA"
+    },
+
+    "Hynobiidae": {
+        "Hynobius_chinensis": "HYNCH",
+        "Hynobius_leechii": "HYNLE",
+        "Hynobius_quelpaertensis": "HYNQU",
+        "Hynobius_retardatus": "HYNRE",
+        "Hynobius_unisacculus": "HYNUN",
+        "Hynobius_yangi": "HYNYA",
+        "Onychodactylus_koreanus": "ONYKO"
+    },
+
+    "Plethodontidae": {
+        "Karsenia_koreana": "KARKO"
+    }
+}
