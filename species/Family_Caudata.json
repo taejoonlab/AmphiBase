@@ -17,6 +17,12 @@
         "Onychodactylus_koreanus": "ONYKO"
     },
 
+    "Salamandridae": {
+        "Notophthalmus_viridescens": "NOTVI",
+        "Paramesotriton_hongkongensis": "PARHO",
+        "Pleurodeles_waltl": "PLEWA"
+    },
+
     "Plethodontidae": {
         "Karsenia_koreana": "KARKO"
     }

@@ -1,7 +1,36 @@
 {
     "Bombinatoridae": {
+        "Bombina_bombina": "BOMBO",
+        "Bombina_maxima": "BOMMA",
         "Bombina_orientalis": "BOMOR",
-        "Bombina_bombina": "BOMBO"
+        "Bombina_variegata": "BOMVA"
+    },
+
+    "Bufonidae": {
+        "Bufotes_viridis": "BUFVI",
+        "Rhinella_marina": "RHIMA"
+    },
+
+    "Dendrobatidae": {
+        "Dendrobates_tinctorius": "DENTI"
+    },
+
+    "Hylidae": {
+        "Hyla_arborea": "HYLAR",
+        "Hyla_cinerea": "HYLCI",
+        "Hyla_suweonensis": "HYLSU"
+    },
+
+    "Hyperoliidae": {
+        "Hyperolius_riggenbachi": "HYPRI"
+    },
+
+    "Leptodactylidae": {
+        "Engystomops pustulosus": "ENGPU"
+    },
+
+    "Microhylidae": {
+        "Kaloula_borealis": "KALBO"
     },
 
     "Pipidae": {
@@ -11,5 +40,16 @@
         "Xenopus_laevis": "XENLA",
         "Xenopus_mellotropicalis": "XENME",
         "Xenopus_tropicalis": "XENTR"
+    },
+
+    "Ranidae": {
+        "Odorrana_margaretae": "ODOMA",
+        "Pelophylax_chosenicus": "PELCH",
+        "Pelophylax_nigromaculatus": "PELNI",
+        "Rana_catesbeiana": "RANCA",
+        "Rana_japonica": "RANJA",
+        "Rana_ornativentris": "RANOR",
+        "Rana_pipiens": "RANPI",
+        "Rana_tagoi": "RANTA"
     }
 }
