@@ -1,8 +1,13 @@
 docs_list_title: AmphiBase Documentation
-docs:
 
+amphibase_docs:
   - title: NuevoTx (De Novo Transcriptome Assembly pipeline)
     url: /documents/NuevoTx
 
   - title: Google Storage Structure
     url: /documents/GoogleStorageStructure
+
+protocol_docs:
+  - title: RNA-seq experiment
+  
+  - title: RAD-seq experiment
