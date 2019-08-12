@@ -4,3 +4,7 @@
 
 layout: home
 ---
+![banner](/images/AmphiBase.banner.jpg)
+
+Welcome to AmphiBase, the place for collecting Amphibian Genomic Resources. 
+

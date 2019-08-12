@@ -5,16 +5,28 @@ permalink: /data/
 ---
 
 The collection of genomic data.
+You can access the data from Google Cloud Storage (Bucket). 
+https://console.cloud.google.com/storage/browser/tklab-amphibase/
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Caudata
+<ul>
+{% for block in site.data.Caudata.species %}
+<li>{{ block.species_name }} <i>( {{block.order}} / {{block.family}})</i></li>
+{% endfor %}
+</ul>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# Gymnophiona
+<ul>
+{% for block in site.data.Gymnophiona.species %}
+<li>{{ block.species_name }} <i>( {{block.order}} / {{block.family}})</i></li>
+{% endfor %}
+</ul>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
+# Anura
+<ul>
+{% for block in site.data.Anura.species %}
+<li>{{ block.species_name }} <i>( {{block.order}} / {{block.family}})</i></li>
+{% endfor %}
+</ul>
 
 [jekyll-organization]: https://github.com/jekyll
