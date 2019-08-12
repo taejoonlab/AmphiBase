@@ -1,0 +1,25 @@
+species:
+- species_name: Caecilia_tentaculata
+  order: Gymnophiona
+  family: Caeciliidae
+  species_code: CAETE
+- species_name: Ichtyophis_bannanicus
+  order: Gymnophiona
+  family: Ichtyophiidae
+  species_code: ICHBA
+- species_name: Rhinatrema_bivittatum
+  order: Gymnophiona
+  family: Rhinatrematidae
+  species_code: RHIBI
+- species_name: Microcaecilia_dermatophaga
+  order: Gymnophiona
+  family: Siphonopidae
+  species_code: MICDE
+- species_name: Microcaecilia_unicolor
+  order: Gymnophiona
+  family: Siphonopidae
+  species_code: MICUN
+- species_name: Typhlonectes_compressicauda
+  order: Gymnophiona
+  family: Typhlonectidae
+  species_code: TYPCO

@@ -1,0 +1,8 @@
+docs_list_title: AmphiBase Documentation
+docs:
+
+  - title: NuevoTx (De Novo Transcriptome Assembly pipeline)
+    url: /documents/NuevoTx
+
+  - title: Google Storage Structure
+    url: /documents/GoogleStorageStructure
