@@ -33,3 +33,4 @@ for line in f_iso:
                       (tmp_code, tmp_country_name,
                        tmp['order'], tmp['family'],
                        tmp['scientificname'].replace(' ', '_')))
+f_iso.close()
